@@ -1,0 +1,73 @@
+.right{
+    text-align:right;
+}
+#topHeader{
+    background-color: ghostwhite;
+    border-bottom: 1px solid silver;
+}
+#topHeader a{
+    color: #2c3e50;
+    font-weight:600;
+    font-size: 0.89rem;
+}
+.navbarcolor{
+    background-color:#54a0ff;
+}
+
+/* home page hero section*/
+#hero-section{
+    background-color: cornflowerblue;
+    color: white;
+}
+#hero-section a{
+    color: white;
+}
+.requirement{
+    background-color: cornflowerblue;
+    color:white;
+}
+
+/*End of home page */
+/*start of about Us page*/
+
+.about_page{
+    background-color: #e9ecef;
+}
+
+.requirements{
+    margin-top:40px;
+    background-color: cornflowerblue;
+    color:white;
+}
+
+.bar{
+    color:cornsilk;
+    font-weight:600;
+    font-size: 1.1rem;
+    border-radius: 17px;
+    border: 1px solid slategray;
+}
+a:hover{
+    color:black;
+}
+
+/*Admin login*/
+body{   
+    background: #eee;  
+}  
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 70%;  
+}  
+
+
