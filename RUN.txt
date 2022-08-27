@@ -1,3 +1,0 @@
-url:http://localhost/Test_code/index.html
-
-Run Xampp 
